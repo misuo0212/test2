@@ -1,3 +1,6 @@
+// For command line git tutorial
+// GitHub modification
+
 print ("A")
 print ("B")
 <<<<<<< HEAD
